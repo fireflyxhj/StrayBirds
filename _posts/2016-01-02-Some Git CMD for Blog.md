@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Happy New Year
+title: Commit changes to github with git in Ubuntu
 category: Technology
 comments: true
 ---
 
 
 
-#**Commit changs to github with git in Ubuntu**
+#**Commit changes to github with git in Ubuntu**
 *** 
 ##**本地仓库初始化**
 
