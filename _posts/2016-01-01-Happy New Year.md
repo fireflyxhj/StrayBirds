@@ -1,7 +1,6 @@
 ---
 layout:default
 title:Happy New Year
-category:生活
 ---
 
 
