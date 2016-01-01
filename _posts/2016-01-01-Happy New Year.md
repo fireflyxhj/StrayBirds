@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy New Year
+title: Happy New Year@2016-01-01
 category: Life
 comments: true
 ---
