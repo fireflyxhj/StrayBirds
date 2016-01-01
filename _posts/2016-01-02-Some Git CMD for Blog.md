@@ -1,3 +1,12 @@
+---
+layout: post
+title: Happy New Year
+category: Technology
+comments: true
+---
+
+
+
 #**Commit changs to github with git in Ubuntu**
 *** 
 ##**本地仓库初始化**
