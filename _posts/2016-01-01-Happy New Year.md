@@ -1,6 +1,8 @@
 ---
-layout:default
+layout:post
 title:Happy New Year
+category:技术
+comment:true
 ---
 
 
