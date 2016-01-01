@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy New Year
-category: 生活
+category: Life
 comments: true
 ---
 
