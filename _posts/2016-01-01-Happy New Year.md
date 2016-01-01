@@ -1,7 +1,7 @@
 ---
 layout:default
 title:Happy New Year
-category:高山流水
+category:生活
 ---
 
 
