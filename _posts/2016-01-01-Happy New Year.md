@@ -1,8 +1,8 @@
 ---
-layout:post
-title:Happy New Year
-category:技术
-comment:true
+layout: post
+title: Happy New Year
+category: 生活
+comments: true
 ---
 
 
