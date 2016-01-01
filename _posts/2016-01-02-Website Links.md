@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Happy New Year
-category: 技术
+title: Website links for linux introduction
+category: Technology
 comments: true
 ---
 
