@@ -1,4 +1,4 @@
-#**How commit changs to github with git in Ubuntu**
+#**Commit changs to github with git in Ubuntu**
 *** 
 ##**本地仓库初始化**
 
