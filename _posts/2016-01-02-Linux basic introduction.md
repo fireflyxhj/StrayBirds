@@ -7,9 +7,8 @@ comments: true
 
 
 
-#**website links for linux environment**
+#**Linux basic introduction**
 ***
-
 [安装Ubuntu15.10后](http://blog.csdn.net/skykingf/article/details/45267517)
 
 [Ubuntu查看版本](http://blog.csdn.net/liuqinstudy/article/details/9013307)
@@ -31,25 +30,5 @@ comments: true
 [linux启动过程分析](http://blog.csdn.net/maimang1001/article/details/37744953)
 
 [linux内核启动及文件系统加载过程](http://www.tuicool.com/articles/NzAb2i)
-***
-#END
 
-[阅读Android系统源码](http://www.zhihu.com/question/19759722)
-
-[Linux源码学习计划](http://blog.csdn.net/tianruxishui/article/details/5375585)
-
-[Apache Tomcat](http://tomcat.apache.org/download-90.cgi)
-
-[ubuntu install opengrok](http://www.cnblogs.com/carlo/p/4543054.html)
-
-[ubuntu install opengrok2](http://blog.csdn.net/hansel/article/details/9798257)
-
-[Android源码目录](http://www.cnblogs.com/shaweng/p/4043573.html)
-
-[github account](https://github.com/fireflyxhj/blog)
-
-[github搭建的blog](http://fireflyxhj.github.io/blog/)
-
-[github opengrok](http://opengrok.github.io/OpenGrok/)
-
-**END**
+##END
