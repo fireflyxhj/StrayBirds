@@ -9,6 +9,10 @@ comments: true
 
 #**Commit changes to github with git in Ubuntu**
 *** 
+[*github account*](https://github.com/fireflyxhj/blog)
+
+[*github搭建的blog*](http://fireflyxhj.github.io/blog/)
+
 ##**本地仓库初始化**
 
 安装git工具
