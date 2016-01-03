@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Git and Repo
+title: Git and Repo and Android build
 category: Technology
 comment: true
 ---
 
 
-#Git and Repo introduction
+#Git and Repo and Android build
 ***
 [Git and Repo入门](http://www.cnblogs.com/angeldevil/p/3238470.html)
 
