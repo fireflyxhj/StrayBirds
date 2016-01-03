@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Commit changes to github with git in Ubuntu
+title: Personnal blog based git and github
 category: Technology
 comments: true
 ---
 
 
 
-#**Commit changes to github with git in Ubuntu**
+#**Personnal blog based git and github**
 *** 
 ##**本地仓库初始化**
 
