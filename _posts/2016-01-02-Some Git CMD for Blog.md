@@ -9,10 +9,6 @@ comments: true
 
 #**Commit changes to github with git in Ubuntu**
 *** 
-[*github account*](https://github.com/fireflyxhj/blog)
-
-[*github搭建的blog*](http://fireflyxhj.github.io/blog/)
-
 ##**本地仓库初始化**
 
 安装git工具
@@ -40,7 +36,12 @@ git add <文件>
 git commit -m <文件>
 
 git push -v origin gh-pages
+##**参考链接**
 
-[参考链接](http://www.cnblogs.com/fanyong/p/3424501.html)
+[*Git commit to github*](http://www.cnblogs.com/fanyong/p/3424501.html)
+
+[*github account*](https://github.com/fireflyxhj/blog)
+
+[*github搭建的blog*](http://fireflyxhj.github.io/blog/)
 
 
