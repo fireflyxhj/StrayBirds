@@ -12,7 +12,11 @@ comment: true
 
 [Git book](http://git-scm.com/book/zh/v2)
 
+[git简易指南](http://www.bootcss.com/p/git-guide/)
+
 [Build Android source code using repo](http://maider.blog.sohu.com/250854034.html)
+
+[Perfore使用指南](http://blog.sina.com.cn/s/blog_83a374aa0100vc9t.html)
 
 
 
