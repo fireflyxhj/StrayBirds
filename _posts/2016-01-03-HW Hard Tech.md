@@ -29,7 +29,9 @@ comment: true
 ##示波器
 *[如何选择一个示波器？](http://www.21ic.com/app/test/201501/612080.htm)
 
-*[文章2]()
+*[Osilloscope user manual](http://wenku.baidu.com/view/401772b1fd0a79563c1e72da.html?from=search)
+
+*[用示波器抓取LIN协议波形并分析](http://wenku.baidu.com/view/401772b1fd0a79563c1e72da.html?from=search)
 ***
 
 ***
