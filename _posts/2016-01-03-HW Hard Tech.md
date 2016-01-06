@@ -8,12 +8,18 @@ comment: true
 
 #梦里看花之“硬技能”
 ***
-*这篇文章主要记载，硬件工程师应该掌握的仪表仪器基本操作，涵盖基带和射频两大方面，主要有以下仪表仪器：万用表，稳压电源，示波器，电流表；频谱分析仪，网络分析仪，信号发生器，综测仪。当然，也会记载一些经典的测试案例等等，以网页链接给出。*
+*这篇文章主要记载，硬件工程师应该掌握的仪表仪器基本操作，涵盖基带和射频两大方面，主要有以下仪表仪器：数字万用表，稳压电源，示波器；频谱分析仪，网络分析仪，信号发生器，综测仪。当然，也会记载一些经典的测试案例等等，以网页链接给出。*
 ***
-##万用表
-*[文章1]()
+##数字万用表
+*主要讲述台式高精度的数字万用表，手持式数字万用表略过，毕竟常用来探测短路和开路而已。*
 
-*[文章2]()
+*[2700型数字万用表官方网站链接](http://www.keithley.com.cn/products/dcac/dmm/?mn=2700)
+
+*[2700型数字万用表参考文档](http://www.keithley.com.cn/products/dcac/dmm/?path=2700/Documents#1)
+
+*[2700 Multimeter user manual](http://wenku.baidu.com/view/43b743ce6137ee06eff918c5.html)
+
+*[2700数字万用表用户手册](http://wenku.baidu.com/link?url=0i5hV8gL9W7h3yCBJMfyMUjTbIRR3Dq1chaodQb-bTwoBaVLf2z81M6fK8lAJBaycqQQxoH-I3nCysITXgary_sJg1nzLiMi1NdWWgdE3aW)
 ***
 ##稳压电源
 *[文章1]()
@@ -25,10 +31,7 @@ comment: true
 
 *[文章2]()
 ***
-##电流表
-*[文章1]()
 
-*[文章2]()
 ***
 ##频谱分析仪
 *[Angilent频谱分析仪介绍](http://wenku.baidu.com/link?url=DUIb_7o49g1ZXdBpAqUWwIVBD-fDeKlIdDpV34mqQK_uEtFAkKsh4V-9fLhP3sXBiPl1xnbPYlncR4g2MvlyLqmobnW5wUQrFbWjb_zhdOC)
