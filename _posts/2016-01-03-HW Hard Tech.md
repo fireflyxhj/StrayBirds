@@ -27,7 +27,7 @@ comment: true
 *[文章2]()
 ***
 ##示波器
-*[文章1]()
+*[如何选择一个示波器？](http://www.21ic.com/app/test/201501/612080.htm)
 
 *[文章2]()
 ***
@@ -56,7 +56,7 @@ comment: true
 *[文章2]()
 ***
 ##经典案例
-*[文章1]()
+*[DDR测试系列之三—— 某SDRAM时钟分析案例](http://www.chinabaike.com/t/35339/2016/0102/4135911.html)
 
-*[文章2]()
+*[教你如何用普通示波器进行电流测试](http://www.elecfans.com/instrument/362116.html?v=pc)
 ***
