@@ -31,9 +31,11 @@ comment: true
 *[文章2]()
 ***
 ##频谱分析仪
-*[文章1]()
+*[Angilent频谱分析仪介绍](http://wenku.baidu.com/link?url=DUIb_7o49g1ZXdBpAqUWwIVBD-fDeKlIdDpV34mqQK_uEtFAkKsh4V-9fLhP3sXBiPl1xnbPYlncR4g2MvlyLqmobnW5wUQrFbWjb_zhdOC)
 
-*[文章2]()
+*[频谱分析仪基础](http://blog.sina.com.cn/s/blog_5d713e7a0101bi52.html)
+
+*[Spectrum RBW&VBW](http://wenku.baidu.com/link?url=WMsOLcq3G6TMOjyG8ioM3fwEbkoRryC4r66IcWmblr517W4ofc_BYG7IOmu1PTZ4UmkqDk41glFFCqjC3z0A02I9HVmWJiRFzEPQehdhwNe)
 ***
 ##网络分析仪
 *[文章1]()
