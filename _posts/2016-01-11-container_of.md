@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "container of" from mt6605.c
+title: container of from mt6605.c
 category: Technology
 comment: true
 ---
