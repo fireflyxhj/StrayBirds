@@ -22,4 +22,6 @@ Receiver NF: 3 dB (Typical)
 ***
 S=-111+Eb/No+NF-Gp=-111 + 6 + 3 - 46 = -148 dBm
 ***
-S=-KT+C/N0+NF=-174+23+3=-148
+S=-KT+C/N0+NF=-174+23+3=-148（Sin=-148,CNR=23dB-Hz)
+***
+-130=-KT+C/N0+NF=-174+41+3=-130(Sin=-130,CNR=41dB-Hz)
