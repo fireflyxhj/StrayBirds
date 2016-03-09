@@ -9,8 +9,8 @@ comments: true
 ***
 ##**Log Analysize**
 ###Notepad++
-###TextAnalysis
-##**Code Read**
+###TextAnalysisTool
+##**Code Reading**
 ###Source Insight
 ###OpenGrok
 ##**Revision Control**
