@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 梦里看花之“硬技能”
+title: HW Hard Tech
 category: Technology
 comment: true
 ---
