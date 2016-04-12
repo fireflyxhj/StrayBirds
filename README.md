@@ -2,9 +2,9 @@
 ======================================================================================
 #Read Me
 ***
-**This is personnal blog for me!**
+**This is a personnal blog for me!**
 
-**If are interesting, please see the following Website!**
+**If interested, please see the following Website!**
 
 [**风继续吹**](http://fireflyxhj.github.io/blog/)
 
