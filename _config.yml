@@ -119,7 +119,7 @@ username: fireflyxhj
 baseurl: /blog
 markdown: kramdown
 safe: false
-highlighter: pygments
+highlighter: rouge
 title: 风继续吹
 description: 悠悠海风轻轻吹，冷却了野火堆
 theme: leap-day
