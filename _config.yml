@@ -117,7 +117,7 @@ disqus:
 
 username: fireflyxhj
 baseurl: /blog
-markdown: redcarpet
+markdown: kramdown
 safe: false
 highlighter: pygments
 title: 风继续吹
