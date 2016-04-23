@@ -21,4 +21,6 @@ comment: true
 
 [Android源码编译的全过程记录](http://www.jizhuomi.com/android/environment/369.html)
 
+[正确地保存编译内核产生的.config文件-使用make savedefconfig](http://blog.csdn.net/kangear/article/details/39553337)
+
 **END**
