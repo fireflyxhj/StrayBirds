@@ -8,7 +8,8 @@ comments: true
 **Tools for Coder**
 ===
 **Log Analysize**
------
+----
+
 Notepad++
 
 TextAnalysisTool
