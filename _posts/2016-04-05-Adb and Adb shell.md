@@ -5,8 +5,7 @@ category: Technology
 comment: true
 ---
 
-#Adb and Adb shell
-***
+**Adb and Adb shell**
 
 [adb shell命令详解](http://blog.163.com/hero_213/blog/static/3989121420115915014721/)
 
