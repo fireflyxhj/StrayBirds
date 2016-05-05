@@ -5,8 +5,8 @@ category: Technology
 comment: true
 ---
 
-#Android build including system_app_kernerl_module
-***
+**Android build including system_app_kernerl_module**
+
 [理解 Android Build 系统](http://www.ibm.com/developerworks/cn/opensource/os-cn-android-build/#icomments)
 
 [Ubuntu 下载 & 编译 Android5.1 源码](http://www.cnblogs.com/bluestorm/p/4419135.html)
