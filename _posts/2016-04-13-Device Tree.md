@@ -5,7 +5,7 @@ category: Technology
 comment: true
 ---
 
-*Device Tree*
+**Device Tree**
 
 [蜗窝科技](http://www.wowotech.net/)
 
