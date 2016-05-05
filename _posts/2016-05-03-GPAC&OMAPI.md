@@ -5,8 +5,8 @@ category: Technology
 comment: true
 ---
 
-#GPAC&OMAPI
-***
+**GPAC&OMAPI**
+
 关于NFC过CT/CMCC/CU等运营商认证，需要过OMA/ARF/ARAM/MODEM等SE访问测项。
 
 《Open Mobile API specification V2.03 19th June 2012》 
