@@ -20,4 +20,5 @@ MTK平台Android手机还可以通过GAT工具抓取log：[如何用GAT抓取log
 [adb常用命令合集](http://blog.csdn.net/liu_chunhai/article/details/7463420)
 
 [adb常用命令略解](http://www.cnblogs.com/ccxniit2004/archive/2012/02/13/2349767.html)
+
 **END**
