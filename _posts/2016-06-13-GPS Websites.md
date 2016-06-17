@@ -9,6 +9,8 @@ comment: true
 
 **http://www.gps.gov/**
 
+**http://www.beidou.gov.cn/index.html**
+
 **http://electronics.howstuffworks.com/gadgets/travel/gps.htm/printable**
 
 **http://www.colorado.edu/geography/gcraft/notes/gps/gps_f.html**
