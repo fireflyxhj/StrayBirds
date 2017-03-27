@@ -5,7 +5,7 @@ category: Technology
 comment: true
 ---
 
-**Python of liaoxiaofengt**
+**Python of liaoxiaofeng**
 
 **http://www.liaoxuefeng.com/**
 
